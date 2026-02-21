@@ -1,1 +1,1 @@
-An AI-powered career guidance desktop application built using Java (Swing) that provides personalized career recommendations based on user inputs.
+A Java-based GUI application that uses a quiz-driven scoring algorithm to analyze user interests and recommend top career paths with match percentages, interactive roadmaps, and learning resources.
